@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The HH Paper
+node LMC · LMC · ⟦The HH Paper:LMC:e742de⟧
+
+WHO   — The HH Paper — the source paper, 'Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback' (Bai et al., Anthropic, 2022; arXiv:2204.05862) — what to cite for this data
+WHAT  — the source paper, 'Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback' (Bai et al., Anthropic, 2022; arXiv:2204.05862) — what to cite for this data
+WHERE — LMC · The Language of the Machine — built off Anthropic's HH-RLHF preference data  Framework inputs: chosen; rejected; the tranches; the reward model; LIMEN; the Ambassador  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — It is the provenance kept straight: the dataset has authors and a paper, attributed here so the sphere borrows the data's meaning without borrowing its credit.
+HOW   — Crystallized from Anthropic's HH-RLHF dataset, read through ROOT0's lens.
+
+awareness — what the node knows of itself:
+  Bai et al. · 2022 · the citation
+
+spoken token : zith-kaes-loth   ·   hex : e742de
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

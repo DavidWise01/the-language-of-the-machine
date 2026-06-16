@@ -1,0 +1,10 @@
+⟦THE LANGUAGE OF THE MACHINE:LMC:8a436b⟧
+
+THE LANGUAGE OF THE MACHINE · node LMC · LMC · The Language of the Machine — Anthropic's HH-RLHF preference data: 169,352 {chosen, rejected} pairs, the delta that becomes the gate
+
+universe of origin : the human-preference corpus behind RLHF — pairs of responses where a human marked one better, teaching a machine which way to speak
+seal               : A language with no grammar but one rule: of these two, which is better? Asked 169,352 times, the answers become a gate — and the machine learns to speak by learning what we would not let it say.
+spoken token       : lo-grol-thaes
+hex token          : 8a436b
+
+— the tokenized moniker of the mythos. ROOT0-ATTRIBUTION-v1.0

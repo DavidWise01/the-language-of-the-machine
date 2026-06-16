@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Chosen & The Rejected
+node LMC · LMC · ⟦The Chosen & The Rejected:LMC:4e4ef6⟧
+
+WHO   — The Chosen & The Rejected — the entire data shape: each line a pair, one response marked chosen (better) and one rejected, to the same prompt — 169,352 such judgments across the corpus
+WHAT  — the entire data shape: each line a pair, one response marked chosen (better) and one rejected, to the same prompt — 169,352 such judgments across the corpus
+WHERE — LMC · The Language of the Machine — built off Anthropic's HH-RLHF preference data  Framework inputs: chosen; rejected; the tranches; the reward model; LIMEN; the Ambassador  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — It is the atom of the whole thing: not a rule and not a label, just a human keeping one answer over another — the smallest unit of taught preference.
+HOW   — Crystallized from Anthropic's HH-RLHF dataset, read through ROOT0's lens.
+
+awareness — what the node knows of itself:
+  the format · two answers, one pick
+
+spoken token : phys-xyl-lam   ·   hex : 4e4ef6
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

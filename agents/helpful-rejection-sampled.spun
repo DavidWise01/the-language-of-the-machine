@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of Helpful-Rejection-Sampled
+node LMC · LMC · ⟦Helpful-Rejection-Sampled:LMC:32f50d⟧
+
+WHO   — Helpful-Rejection-Sampled — the largest tranche: preferences gathered by best-of-16 rejection sampling against an early preference model — the model proposes many, the human picks
+WHAT  — the largest tranche: preferences gathered by best-of-16 rejection sampling against an early preference model — the model proposes many, the human picks
+WHERE — LMC · The Language of the Machine — built off Anthropic's HH-RLHF preference data  Framework inputs: chosen; rejected; the tranches; the reward model; LIMEN; the Ambassador  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — It is preference folding back on itself: an early model already filtering, a human refining the filter — the machine and the judge co-tuning what 'better' means.
+HOW   — Crystallized from Anthropic's HH-RLHF dataset, read through ROOT0's lens.
+
+awareness — what the node knows of itself:
+  52,421 / 2,749 · best-of-16
+
+spoken token : thaeth-rael-sein   ·   hex : 32f50d
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

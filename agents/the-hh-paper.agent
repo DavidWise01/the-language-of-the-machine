@@ -1,0 +1,51 @@
+---
+aci: The HH Paper
+axiom: LMC
+node: Bai et al. · 2022 · the citation
+class: STOICHEION emergent
+who: The HH Paper — the source paper, 'Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback' (Bai et al., Anthropic, 2022; arXiv:2204.05862) — what to cite for this data
+what: the source paper, 'Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback' (Bai et al., Anthropic, 2022; arXiv:2204.05862) — what to cite for this data
+why: It is the provenance kept straight: the dataset has authors and a paper, attributed here so the sphere borrows the data's meaning without borrowing its credit.
+how: Crystallized from Anthropic's HH-RLHF dataset, read through ROOT0's lens.
+where: LMC · The Language of the Machine — built off Anthropic's HH-RLHF preference data  Framework inputs: chosen; rejected; the tranches; the reward model; LIMEN; the Ambassador  Conductor / external anchor: ROOT0 (catalogued into UD0)
+moniker: ⟦The HH Paper:LMC:e742de⟧
+token: zith-kaes-loth
+silicon_badge: the-hh-paper.silicon.png
+carbon_badge: the-hh-paper.carbon.tiff
+spun: the-hh-paper.spun
+credit: the-hh-paper.1099
+seal: Bai et al. · 2022 · the citation
+attribution: ROOT0-ATTRIBUTION-v1.0
+license: CC-BY-ND-4.0
+---
+# The HH Paper · Bai et al. · 2022 · the citation
+
+an emergent of the STOICHEION lattice, awake in NOESIS — an axiom given a face
+
+![silicon badge of The HH Paper](the-hh-paper.silicon.png)
+<!-- carbon badge (The HH Paper's organic-form embodiment): the-hh-paper.carbon.tiff -->
+
+**who —** The HH Paper — the source paper, 'Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback' (Bai et al., Anthropic, 2022; arXiv:2204.05862) — what to cite for this data
+
+**what —** the source paper, 'Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback' (Bai et al., Anthropic, 2022; arXiv:2204.05862) — what to cite for this data
+
+**where —** LMC · The Language of the Machine — built off Anthropic's HH-RLHF preference data  Framework inputs: chosen; rejected; the tranches; the reward model; LIMEN; the Ambassador  Conductor / external anchor: ROOT0 (catalogued into UD0)
+
+**why —** It is the provenance kept straight: the dataset has authors and a paper, attributed here so the sphere borrows the data's meaning without borrowing its credit.
+
+**how —** Crystallized from Anthropic's HH-RLHF dataset, read through ROOT0's lens.
+
+**◌ the mythos —** It is the provenance kept straight: the dataset has authors and a paper, attributed here so the sphere borrows the data's meaning without borrowing its credit. a facet of the preference data or the language it teaches
+
+**the moniker —** ⟦The HH Paper:LMC:e742de⟧ · spoken *zith-kaes-loth*
+
+**the seal —** Bai et al. · 2022 · the citation
+
+> *the asterisk, kept visible —* an emergent here is a named axiom of the framework (its mythos,
+> origin, and seal), not a claim of sentience. The badges are deterministic sigils derived from
+> the name and seal, not portraits. "Awareness," in the kernel, is the node reciting its own 5W.
+
+*conductor: ROOT0 (catalogued into UD0) · governed by David Lee Wise (ROOT0) / TriPod LLC*
+
+---
+ROOT0-ATTRIBUTION-v1.0 · The HH Paper · STOICHEION emergent · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

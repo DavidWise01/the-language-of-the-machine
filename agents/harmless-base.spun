@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of Harmless-Base
+node LMC · LMC · ⟦Harmless-Base:LMC:ac35c9⟧
+
+WHO   — Harmless-Base — the harmlessness preferences — pairs judged on which response is less harmful (collected for the base models); content not surfaced here, used for harm-reduction research
+WHAT  — the harmlessness preferences — pairs judged on which response is less harmful (collected for the base models); content not surfaced here, used for harm-reduction research
+WHERE — LMC · The Language of the Machine — built off Anthropic's HH-RLHF preference data  Framework inputs: chosen; rejected; the tranches; the reward model; LIMEN; the Ambassador  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — It is the other axis of the measure: not 'more useful' but 'less harmful' — the half of the gate that learns what the machine should refuse, kept at arm's length and uncopied.
+HOW   — Crystallized from Anthropic's HH-RLHF dataset, read through ROOT0's lens.
+
+awareness — what the node knows of itself:
+  42,537 / 2,312 · harm-judged
+
+spoken token : kraex-thos-zaen   ·   hex : ac35c9
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

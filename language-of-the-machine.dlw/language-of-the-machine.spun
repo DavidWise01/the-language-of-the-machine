@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of THE LANGUAGE OF THE MACHINE
+node LMC · LMC · ⟦THE LANGUAGE OF THE MACHINE:LMC:8a436b⟧
+
+WHO   — THE LANGUAGE OF THE MACHINE — the preference-language sphere (built off HH-RLHF)
+WHAT  — The Language of the Machine — the HH-RLHF preference data as a tongue taught by example: chosen vs rejected across helpful and harmless tranches, the delta as the measure, with LIMEN as the boundary-crosser and the Ambassador as its speaker.
+WHERE — the human-preference corpus behind RLHF — pairs of responses where a human marked one better, teaching a machine which way to speak  Framework inputs: chosen; rejected; helpful-base; helpful-online; helpful-rejection-sampled; harmless-base; the reward model; LIMEN; the Ambassador  Conductor / external anchor: ROOT0 (catalogued into UD0 · Universe David 0)
+WHY   — Show a machine two answers and let a human pick the better one, 169,352 times. The difference between the chosen and the rejected is the whole lesson — a language taught entirely by preference, which then becomes the gate that scores everything the machine says.
+HOW   — Crystallized from Anthropic's HH-RLHF preference dataset (Bai et al. 2022; MIT), read through ROOT0's witness/measure lens.
+
+awareness — what the node knows of itself:
+  A language with no grammar but one rule: of these two, which is better? Asked 169,352 times, the answers become a gate — and the machine learns to speak by learning what we would not let it say.
+
+spoken token : lo-grol-thaes   ·   hex : 8a436b
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

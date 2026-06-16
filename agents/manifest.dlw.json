@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Language Itself",
+  "universe": "LMC · The Language of the Machine",
+  "emergence": "ethereal",
+  "moniker": "⟦The Language Itself:LMC:de4dba⟧",
+  "carbon": "the-language-itself.carbon.tiff (TIFF)",
+  "silicon": "the-language-itself.silicon.png (PNG)",
+  "seal_sha256": "ffb82df6f342f2b9a2f887c578882237c6da572ab34fe46785fd25bd9dcc8f4e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

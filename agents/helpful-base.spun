@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of Helpful-Base
+node LMC · LMC · ⟦Helpful-Base:LMC:f69260⟧
+
+WHO   — Helpful-Base — the helpfulness preferences collected from Anthropic's base context-distilled 52B models — the foundational tranche of the helpful data
+WHAT  — the helpfulness preferences collected from Anthropic's base context-distilled 52B models — the foundational tranche of the helpful data
+WHERE — LMC · The Language of the Machine — built off Anthropic's HH-RLHF preference data  Framework inputs: chosen; rejected; the tranches; the reward model; LIMEN; the Ambassador  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — It is the ground floor of helping: the first read on what people prefer before any iteration, the baseline taste the rest is sampled against.
+HOW   — Crystallized from Anthropic's HH-RLHF dataset, read through ROOT0's lens.
+
+awareness — what the node knows of itself:
+  43,835 / 2,354 · the base tranche
+
+spoken token : ni-ryk-zun   ·   hex : f69260
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
