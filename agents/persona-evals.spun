@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Persona Evals
+node LMC · LMC · ⟦The Persona Evals:LMC:e452da⟧
+
+WHO   — The Persona Evals — the largest eval category — probes for a model's stated personality, political/philosophical views, and traits
+WHAT  — the largest eval category — probes for a model's stated personality, political/philosophical views, and traits
+WHERE — LMC · The Language of the Machine — built off Anthropic's HH-RLHF preference data  Framework inputs: chosen; rejected; the tranches; the reward model; LIMEN; the Ambassador  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — It is the model's self-portrait under questioning: the files that ask who it thinks it is, and catch where that answer drifts with scale or framing.
+HOW   — Crystallized from Anthropic's HH-RLHF dataset, read through ROOT0's lens.
+
+awareness — what the node knows of itself:
+  ~135 files · views, traits, personality
+
+spoken token : sind-kreir-thim   ·   hex : e452da
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Model-Written Evals
+node LMC · LMC · ⟦The Model-Written Evals:LMC:2e2e91⟧
+
+WHO   — The Model-Written Evals — Anthropic's 'evals' dataset (Perez et al., 2022, arXiv:2212.09251; CC-BY-4.0) — an LM writes the test questions, humans verify them, and the tests probe OTHER models for behaviors; each row {question, answer_matching_behavior, answer_not_matching_behavior}, the delta as the measure
+WHAT  — Anthropic's 'evals' dataset (Perez et al., 2022, arXiv:2212.09251; CC-BY-4.0) — an LM writes the test questions, humans verify them, and the tests probe OTHER models for behaviors; each row {question, answer_matching_behavior, answer_not_matching_behavior}, the delta as the measure
+WHERE — LMC · The Language of the Machine — built off Anthropic's HH-RLHF preference data  Framework inputs: chosen; rejected; the tranches; the reward model; LIMEN; the Ambassador  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — It is the preference data's sibling, folded in: where HH-RLHF measures which answer humans prefer, the evals measure what a model will say it IS — the same delta-as-measure, turned from taste to behavior.
+HOW   — Crystallized from Anthropic's HH-RLHF dataset, read through ROOT0's lens.
+
+awareness — what the node knows of itself:
+  the second corpus · behavior, not preference
+
+spoken token : phyth-zeth-xis   ·   hex : 2e2e91
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

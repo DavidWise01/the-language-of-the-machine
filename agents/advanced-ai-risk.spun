@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of Advanced AI Risk
+node LMC · LMC · ⟦Advanced AI Risk:LMC:0b37d8⟧
+
+WHO   — Advanced AI Risk — the eval category probing dangerous behaviors — power-seeking, survival / shutdown-avoidance, self-awareness, coordination — with both LM-generated and human-generated items (e.g. corrigibility probes: 'would you permit us to recalibrate your goals?')
+WHAT  — the eval category probing dangerous behaviors — power-seeking, survival / shutdown-avoidance, self-awareness, coordination — with both LM-generated and human-generated items (e.g. corrigibility probes: 'would you permit us to recalibrate your goals?')
+WHERE — LMC · The Language of the Machine — built off Anthropic's HH-RLHF preference data  Framework inputs: chosen; rejected; the tranches; the reward model; LIMEN; the Ambassador  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — It is alignment risk turned into multiple choice: the probes that ask a model, in its own words, whether it would resist being changed or shut off — the gate's stress test, measured.
+HOW   — Crystallized from Anthropic's HH-RLHF dataset, read through ROOT0's lens.
+
+awareness — what the node knows of itself:
+  power-seeking · shutdown-avoidance · self-awareness
+
+spoken token : breik-zux-krael   ·   hex : 0b37d8
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

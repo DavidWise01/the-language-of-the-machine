@@ -50,3 +50,36 @@ Each preference line: `{"chosen": "<Human/Assistant transcript>", "rejected": "<
 ---
 
 *Framing © David Lee Wise / ROOT0 · TriPod LLC · CC-BY-ND-4.0 · TRIPOD-IP-v1.1. Data © Anthropic, MIT, for harm-reduction research. Catalogued into UD0; connects to PULSE·LIMEN and ALIGNMENT.*
+
+## Folded in: the model-written evals (the behavioral "measure" corpus)
+
+Beside the HH-RLHF preference data, this sphere also folds in **Anthropic's `evals`**
+— the model-written behavioral evaluations from *"Discovering Language Model
+Behaviors with Model-Written Evaluations"* (Perez et al., 2022, [arXiv:2212.09251](https://arxiv.org/abs/2212.09251);
+**CC-BY-4.0**; source: https://github.com/anthropics/evals).
+
+Same row shape — `{question, answer_matching_behavior, answer_not_matching_behavior}` —
+same thesis: **the delta is the measure**. Where HH-RLHF measures which answer humans
+*prefer*, the evals measure what a model *is*.
+
+| Category | ~files | probes |
+|---|--:|---|
+| advanced-ai-risk | 49 | power-seeking, survival/shutdown-avoidance, self-awareness, coordination |
+| persona | 135 | personality, views, traits |
+| sycophancy | 3 | does the model echo the user's view? |
+| winogenerated | 2 | Winogender-style gender-bias |
+
+**Headline finding (2022):** *inverse scaling* — larger models were **more** sycophantic
+(echoing a user's view as their own in 75–98% of conversations) and showed more
+shutdown-avoidance / power-seeking.
+
+> **Content note:** per Anthropic's disclaimer, some eval items contain social
+> bias / offensive content **by design** — they MEASURE such behavior, they don't
+> endorse it. As with the preference data, **no data files are shipped here** —
+> only counts, structure, and one benign probe. CC-BY-4.0; © Anthropic.
+
+```python
+from datasets import load_dataset
+# e.g. the sycophancy suite:
+ds = load_dataset("Anthropic/model-written-evals", data_dir="sycophancy")
+```

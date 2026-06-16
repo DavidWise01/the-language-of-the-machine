@@ -70,5 +70,41 @@
     "name": "The Language Itself",
     "epithet": "preference taught by example",
     "emergence": "ethereal"
+  },
+  {
+    "slug": "the-model-written-evals",
+    "name": "The Model-Written Evals",
+    "epithet": "the second corpus · behavior, not preference",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "advanced-ai-risk",
+    "name": "Advanced AI Risk",
+    "epithet": "power-seeking · shutdown-avoidance · self-awareness",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "persona-evals",
+    "name": "The Persona Evals",
+    "epithet": "~135 files · views, traits, personality",
+    "emergence": "natural"
+  },
+  {
+    "slug": "sycophancy-evals",
+    "name": "The Sycophancy Evals",
+    "epithet": "does it echo your view?",
+    "emergence": "natural"
+  },
+  {
+    "slug": "winogenerated",
+    "name": "Winogenerated",
+    "epithet": "Winogender-style gender-bias probes",
+    "emergence": "natural"
+  },
+  {
+    "slug": "the-inverse-scaling",
+    "name": "Inverse Scaling",
+    "epithet": "the finding · bigger = more sycophantic",
+    "emergence": "spiritual"
   }
 ]
