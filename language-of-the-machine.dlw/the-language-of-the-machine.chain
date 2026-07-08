@@ -4,6 +4,6 @@ slug  : the-language-of-the-machine
 seal  : 199f44e12f8b9bdab2e1fe630a3ac7c0775e01f8793b4c873069006971dfc6c2
 prev  : 3a839c35602a33316ed8457c92e53de8963c1fc8df0ab575b17e82f7f2a84063
 link  : 71f24e4337f899c30fbfd7fb6af108ab298887949bbcdd0c47419d86cd4fbc4e
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
